@@ -1,0 +1,17 @@
+{
+    "marker_id": 48,
+    "camera_coordinates": {
+        "x": 0.1668,
+        "y": 0.135891,
+        "z": 0.628
+    },
+    "joint_angles": {
+        "joint_1": 0.4,
+        "joint_2": 1.54,
+        "joint_3": -0.97,
+        "joint_4": 0.06,
+        "joint_5": 1.12,
+        "joint_6": 0.51
+    },
+    "consistent_detections": 5
+}
